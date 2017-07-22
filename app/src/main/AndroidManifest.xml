@@ -24,6 +24,8 @@
                  android:process=":aaaa"></service>
         <service android:name=".service.ClientService"
                  android:process=":bbbb"></service>
+        <service android:name=".service.BinderPoolService"
+                 android:process=":aaaa"></service>
     </application>
 
 </manifest>

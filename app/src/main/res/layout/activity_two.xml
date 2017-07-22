@@ -7,5 +7,6 @@
         android:id="@+id/tvProcess"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:text="ahdiajdioaj"
         android:textColor="@color/colorPrimary"/>
 </LinearLayout>
